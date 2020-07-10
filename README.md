@@ -1,4 +1,4 @@
-Hi there! I'm Ali, a software developer from İstanbul aka the city of cats (suprising enough I also have 2 cats 🐱🐱).
+Hi there! I'm Ali, a web development engineer from İstanbul aka the city of cats (suprising enough I also have 2 cats 🐱🐱).
 
 I'm a big fan of the JavaScript community and I follow the emerging ecosystem as much as I can. I enjoy finding out and reading about new technologies and materials even if I may never end up using them. I adore how many different tools people are building to solve challenging common problems.
 
